@@ -16,7 +16,7 @@ Entscape utilizes a range of technologies in both the frontend and backend devel
 
 ## About Entscape
 
-Entscape is a portal designed for bookworms and cinephiles. It serves as a tribute to the joy of reading and watching movies, aiming to settle the age-old debate between books and movies.
+Entscape is a portal designed for bookworms and Cinephiles. It serves as a tribute to the joy of reading and watching movies, aiming to settle the age-old debate between books and movies.
 
 With Entscape, we offer you a single platform to discover and explore both worlds of entertainment, allowing you to cross over to the other side of the universe where you can find new books to read, movies to watch, and endless opportunities to indulge in captivating stories and immersive experiences.
 
@@ -26,9 +26,9 @@ To get started with Entscape, please follow these steps:
 
 1. Access Entscape in your web browser at the specified URL: https://entscape-frontend.onrender.com
 2. Register through the registration form, adding your first and last name, desired username, E-mail and password.
-3. add your preference and eplore the universe of entertainment!
+3. add your preference and explore the universe of entertainment!
 4. when clicking on a title (a movie for example), we will show you whether there's a book related! and vise versa!
-5. add your favourites to your collection! and share it with your friends!
+5. add your favourites to your collection! and share it with your friends!.
 6. you can change your profile information and photo in the settings!
 
 In case you encounter any hiccups, please note that the registration form and the registration through other means such as google or facebook is under development.
